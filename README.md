@@ -27,7 +27,3 @@ python download_pics.py https://fotoeffects.smugmug.com/My-Personal-Favorites/i-
 ~~~
 
 > Starting URL should be in the gallery view, without the size suffix. e.g. ```/A```
-
-e.g.
-
-<https://fotoeffects.smugmug.com/My-Personal-Favorites/i-wLjbH7r/A>
